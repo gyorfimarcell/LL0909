@@ -1,2 +1,3 @@
 local változik
+remote változik
 5. új sor
