@@ -1,2 +1,2 @@
-főág változik
+local változik
 5. új sor
